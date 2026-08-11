@@ -1,3 +1,5 @@
+
+
 # redstr
 
 [![Crates.io](https://img.shields.io/crates/v/redstr.svg)](https://crates.io/crates/redstr)
@@ -48,7 +50,7 @@ Add this to your [`Cargo.toml`](Cargo.toml):
 
 ```toml
 [dependencies]
-redstr = "*"
+redstr = "0.2.14"
 ```
 
 
@@ -56,7 +58,7 @@ redstr = "*"
 
 ```toml
 [dependencies]
-redstr = { version = "*", features = ["serde"] }
+redstr = { version = "0.2.14", features = ["serde"] }
 ```
 
 ### Other Languages & Platforms
